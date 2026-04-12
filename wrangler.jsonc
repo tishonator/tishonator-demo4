@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tishonator-demo4",
+  "compatibility_date": "2026-04-12",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "tishagency2html"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
